@@ -1,4 +1,4 @@
-public class Eagle_Nested implements  Nested_Bird.NonFlyingBird{
+public class Eagle_Nested implements  Bird_ClassNested.NonFlyingBirds{
 
     @Override
 
