@@ -20,3 +20,4 @@ public interface Bird1_FunctionalExample {
 //then the class which is implementing that interface dosent have to implement thsi method.
 //bcz each class is the extending the Object class.
 //check in testInterface and TestClassImplementation for Understanding..
+//It ahs default ,static ormethod inherited from object class but there should be one abstract method
